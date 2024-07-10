@@ -1,8 +1,4 @@
-// import {Appearance} from 'react-native';
 import {StyleSheet} from 'react-native';
-
-// const colorScheme = Appearance.getColorScheme();
-// const darkTheme = colorScheme === 'dark' ? true : false;
 
 let _dark = '#6f6aee';
 let _light = '#f0effb';
