@@ -1,4 +1,4 @@
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';   
 import styles from '../styles/style';
 import Home from '../android/src/screens/Home';
 import { View } from 'react-native';
