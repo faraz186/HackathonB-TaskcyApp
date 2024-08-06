@@ -5,7 +5,7 @@ import { View } from 'react-native';
 import Icon from 'react-native-vector-icons/Feather'
 import EvilIcons from 'react-native-vector-icons/EvilIcons'
 import AntDesign from 'react-native-vector-icons/AntDesign'
-import Chat from '../android/src/screens/Chat';
+import Chat from '../android/src/screens/Chat';   
 import Profile from '../android/src/screens/Profile';
 import Projects from '../android/src/screens/Project';
 
