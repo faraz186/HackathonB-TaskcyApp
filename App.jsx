@@ -1,7 +1,7 @@
 import React from 'react';   
 import Navigation from './navigation/navigation';   
        
-const App = () => {      
+const App = () => {          
   return <Navigation />;      
 };   
 
