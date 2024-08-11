@@ -2,7 +2,7 @@ import {StyleSheet} from 'react-native';
     
 let _dark = '#6f6aee';  
 let _light = '#f0effb';
-let _success = '#208b3a';
+let _success = '#208b3a';  
 let _warning = '#ec7d10';
 let _danger = '#fc2f00';
 let _secondary = '#353535';
