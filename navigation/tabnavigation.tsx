@@ -8,7 +8,8 @@ import AntDesign from 'react-native-vector-icons/AntDesign'
 import Chat from '../android/src/screens/Chat';   
 import Profile from '../android/src/screens/Profile';   
 import Projects from '../android/src/screens/Project';   
-  
+
+
 function TabNavigation({ navigation }: any) {
     const Tab = createBottomTabNavigator()
     return (
