@@ -74,7 +74,7 @@ function TabNavigation({ navigation }: any) {
                                 <AntDesign name='arrowleft' size={19} color="black" />
                             </View>
                         ),
-                        headerRight: () => (
+                        headerRight: () => (   
                             <View style={[styles.me2, styles.border1, styles.p, { borderColor: 'darkgrey', borderRadius: 25 }]}>
                                 <AntDesign name='plus' size={23} color="black" />
                             </View>
