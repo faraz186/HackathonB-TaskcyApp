@@ -25,7 +25,7 @@ const Navigation = ({ navigation }: any) => {
     const ScreenOptions = {
         headerShown: true,
         headerBackVisible: false,
-        headerShadowVisible: false,
+        headerShadowVisible: false,   
     }
     const Noheader = {
         headerShown: false
