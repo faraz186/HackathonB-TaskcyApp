@@ -15,7 +15,7 @@ import Settings from '../android/src/screens/Settings';
 import AddTask from '../android/src/screens/AddTask';
 import CreateTask from '../android/src/screens/CreateTask';
 import CreateTeam from '../android/src/screens/CreateTeam';
-import SingleChat from '../android/src/screens/SChat';
+import SingleChat from '../android/src/screens/SChat';   
 import EditProfile from '../android/src/screens/EditProfile';
 import Language from '../android/src/screens/Language';
 
