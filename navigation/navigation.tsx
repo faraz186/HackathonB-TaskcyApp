@@ -44,7 +44,7 @@ const Navigation = ({ navigation }: any) => {
                          <Icon name="arrowleft" size={25} style={{color:"black"}}/>
                         </TouchableOpacity>
                     )
-                }} name="SignIn" component={SignIn} />
+                }} name="SignIn" component={SignIn} />   
 
 
                 <Stack.Screen options={{
