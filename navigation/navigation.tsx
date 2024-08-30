@@ -48,7 +48,7 @@ const Navigation = ({ navigation }: any) => {
 
 
                 <Stack.Screen options={{
-                    ...ScreenOptions, headerTitleAlign: "center", headerTitle: "Sign Up",
+                    ...ScreenOptions, headerTitleAlign: "center", headerTitle: "Sign Up",   
                     headerLeft: () => (
                         <TouchableOpacity onPress={() => navigation.navigate('Slider3')} style={[styles.border1, styles.p, { borderColor: 'lightgrey', borderRadius: 25 }]}>
                          <Icon name="arrowleft" size={25} style={{color:"black"}}/>
