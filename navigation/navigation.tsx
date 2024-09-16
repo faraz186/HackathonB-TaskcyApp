@@ -1,4 +1,4 @@
-import { createNativeStackNavigator } from '@react-navigation/native-stack';   
+import { createNativeStackNavigator } from '@react-navigation/native-stack';      
 import { NavigationContainer } from '@react-navigation/native';
 import React from 'react';     
 import Splash from '../android/src/screens/Splash';   
