@@ -15,7 +15,7 @@ let _transparent = 'rgba(0,0,0,.2)';
 const styling = {
   textWhite: {
     color: _white,
-  },
+  },   
   textPrimary: {
     color: _dark,
   },
