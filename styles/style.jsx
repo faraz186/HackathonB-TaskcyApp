@@ -11,7 +11,7 @@ let _info = '#007ea7';
 let _white = '#ffffff';
 let _themeLight = '#d3ffd8';
 let _transparent = 'rgba(0,0,0,.2)';   
-
+   
 const styling = {
   textWhite: {
     color: _white,
