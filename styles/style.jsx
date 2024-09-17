@@ -765,7 +765,7 @@ const styling = {
     marginBottom: 30,
   },
   mb4: {
-    marginBottom: 40,
+    marginBottom: 40,   
   },
   mb5: {
     marginBottom: 50,
