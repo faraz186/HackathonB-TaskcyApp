@@ -16,6 +16,7 @@ const styling = {
   textWhite: {
     color: _white,
   },   
+      
   textPrimary: {
     color: _dark,
   },
