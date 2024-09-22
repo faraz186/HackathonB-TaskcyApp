@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';   
+import {StyleSheet} from 'react-native';     
       
 let _dark = '#6f6aee';    
 let _light = '#f0effb';
