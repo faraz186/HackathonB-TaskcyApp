@@ -7,4 +7,3 @@ export default function HMIcon(props: any) {
           
     return <Icon name={name} size={size ?? 20} color={color ?? styles._dark} />            
 }       
-{/* <HMIcon size={35} name='photo-camera' /> */ }
