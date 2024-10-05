@@ -9,7 +9,7 @@ let _secondary = '#353535';
 let _black = '#000000';        
 let _info = '#007ea7';  
 let _white = '#ffffff';   
-let _themeLight = '#d3ffd8';     
+let _themeLight = '#d3ffd8';       
 let _transparent = 'rgba(0,0,0,.2)';       
    
 const styling = {
