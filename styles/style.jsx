@@ -125,7 +125,7 @@ const styling = {
   borderTopPrimary: {
     borderColor: _dark,
   },
-  borderTopSecondary: {
+  borderTopSecondary: {  
     borderColor: _secondary,
   },
   borderTopSuccess: {
