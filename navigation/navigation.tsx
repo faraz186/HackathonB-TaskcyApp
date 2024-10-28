@@ -26,7 +26,7 @@ const Navigation = ({ navigation }: any) => {
         headerShown: true,
         headerBackVisible: false,
         headerShadowVisible: false,     
-    }
+    }  
     const Noheader = {  
         headerShown: false
     }
