@@ -7,7 +7,7 @@ import SignIn from '../android/src/screens/SignIn';
 import Slider1 from '../android/src/screens/Slider1';
 import Slider2 from '../android/src/screens/Slider2';     
 import Slider3 from '../android/src/screens/Slider3';   
-import { Text, TouchableOpacity } from 'react-native';
+import { Text, TouchableOpacity } from 'react-native';  
 import Icon from 'react-native-vector-icons/AntDesign';
 import Signup from '../android/src/screens/Signup';      
 import TabNavigation from './tabnavigation';      
