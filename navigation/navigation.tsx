@@ -18,7 +18,7 @@ import CreateTeam from '../android/src/screens/CreateTeam';
 import SingleChat from '../android/src/screens/SChat';           
 import EditProfile from '../android/src/screens/EditProfile';
 import Language from '../android/src/screens/Language';
-
+   
    
 const Navigation = ({ navigation }: any) => {
     const Stack = createNativeStackNavigator()
