@@ -2,7 +2,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { NavigationContainer } from '@react-navigation/native';  
 import React from 'react';            
 import Splash from '../android/src/screens/Splash';   
-import styles from '../styles/style';  
+import styles from '../styles/style';    
 import SignIn from '../android/src/screens/SignIn';
 import Slider1 from '../android/src/screens/Slider1';
 import Slider2 from '../android/src/screens/Slider2';     
