@@ -1,6 +1,6 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';     
 import styles from '../styles/style';
-import Home from '../android/src/screens/Home';
+import Home from '../android/src/screens/Home';  
 import { View } from 'react-native';   
 import Icon from 'react-native-vector-icons/Feather'
 import EvilIcons from 'react-native-vector-icons/EvilIcons'
