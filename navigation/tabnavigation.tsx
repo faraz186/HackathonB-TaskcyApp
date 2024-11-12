@@ -11,7 +11,7 @@ import Projects from '../android/src/screens/Project';
 
 
 function TabNavigation({ navigation }: any) {  
-    const Tab = createBottomTabNavigator()
+    const Tab = createBottomTabNavigator()   
     return (  
         <>  
             <Tab.Navigator
