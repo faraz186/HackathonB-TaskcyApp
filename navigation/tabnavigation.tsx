@@ -27,7 +27,7 @@ function TabNavigation({ navigation }: any) {
                         right: 2,
                         bottom: 1,
                         borderRadius: 10,
-                        elevation: 0,
+                        elevation: 0,  
                         height: 60,
                         ...styles.shadow3,
                         
